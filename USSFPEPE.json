@@ -6,9 +6,11 @@
     {
       "type":"icon",
       "data":"https://raw.githubusercontent.com/DazeOner/USSFPEPE-MP4-AND-ICON/main/USSF%2048X48.png"
-    },
+    }
+  ],
+  "video":[
     {
-      "type":"large",
+      "type":"mp4",
       "data":"https://raw.githubusercontent.com/DazeOner/USSFPEPE-MP4-AND-ICON/main/USSFPEPE.MP4"
     }
   ]
